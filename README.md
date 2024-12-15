@@ -21,7 +21,8 @@ Speed is determined by the bluetooth rc cantrola app
     * To do this, you do not really need much of prior knowledge at all, and is very easy to do. 
 ## Circuit Diagram
 ### 1.Motor Driver Connections (L298N):
-* ![ Diagram!](d3.png)
+# Image 
+* ![ Image](d3/d3.png)
     * motorPin1 (Pin 5) → IN1 on the motor driver
     * motorPin1 (Pin 6) → IN2 on the motor driver
     * motorPin1 (Pin 10) → IN3 on the motor driver
