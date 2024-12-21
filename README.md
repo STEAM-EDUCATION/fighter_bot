@@ -22,7 +22,7 @@ Speed is determined by the bluetooth rc cantrola app
 ## Circuit Diagram
 ### 1.Motor Driver Connections (L298N):
 ## Image 
-* ![ Image](d3/d3.png)
+* ![ Image](img/d3.png)
     * motorPin1 (Pin 5) → IN1 on the motor driver
     * motorPin1 (Pin 6) → IN2 on the motor driver
     * motorPin1 (Pin 10) → IN3 on the motor driver
